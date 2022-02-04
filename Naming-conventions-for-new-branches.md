@@ -1,4 +1,4 @@
-[◀️ Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#git)
+[◀️ Back](README.md)
 
 ## Using the slash character in Git branch name
 

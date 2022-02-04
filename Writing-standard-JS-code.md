@@ -1,4 +1,4 @@
-◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#writing-code)
+◀️ [Back](README.md)
 
 
 Our CI is configured to test JS code following the Standard JS Code style defined at:

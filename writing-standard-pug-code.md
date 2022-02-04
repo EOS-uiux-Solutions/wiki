@@ -1,4 +1,4 @@
-◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#writing-code)
+◀️ [Back](README.md)
 
 
 # Rules for writing Pug for EOS:
