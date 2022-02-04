@@ -9,18 +9,18 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 
 ## Developing the EOS project
 ### Git
-- [Naming conventions for new branches](Naming-conventions-for-new-branches)
-- [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
-  - [PR templates](/PR-templates)
+- [Naming conventions for new branches](Naming-conventions-for-new-branches.md)
+- [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master.md)
+  - [PR templates](/PR-templates.md)
 
 
 ### Writing code
-- [Writing standard SCSS code](Writing-standard-scss-code)
-  - [Code commenting standards](code-commenting-standards)
-  - [SCSS structure](SCSS-structure)
-- [Writing standard JS code](Writing-standard-JS-code)
-- [Writing standard pug code](Writing-standard-pug-code)
-- [EOS code snippets](EOS-Code-snippets)
+- [Writing standard SCSS code](Writing-standard-SCSS-code.md)
+  - [Code commenting standards](code-commenting-standards.md)
+  - [SCSS structure](SCSS-structure.md)
+- [Writing standard JS code](Writing-standard-JS-code.md)
+- [Writing standard pug code](writing-standard-pug-code.md)
+- [EOS code snippets](EOS-Code-snippets.md)
 
 ### Writing accessible HTML
 - [A11Y](https://gitlab.com/SUSE-UIUX/eos-icons/-/wikis/Accessibility)
