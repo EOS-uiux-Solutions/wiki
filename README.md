@@ -28,9 +28,9 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 - [Testing A11Y with Axe and Cypress](https://gitlab.com/SUSE-UIUX/eos/-/wikis/A11Y:-Cypress---Axe)
 
 ### Releases
-- [Deploying and versioning releases with tags](Deploying-and-versioning-releases-with-tags)
-- [Semantic releases](semantic-releases)
-- [Managing front-end packages](Managing-front-end-packages)
+- [Deploying and versioning releases with tags](Deploying-and-versioning-releases-with-tags.md)
+- [Semantic releases](Semantic-Releases.md)
+- [Managing front-end packages](Managing-front-end-packages.md)
 
 ## Designing the EOS project
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
@@ -49,8 +49,8 @@ If you are sending a new icon to EOS-icons, please make sure your SVG is complia
 1. [Icon review checklist](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Review-Checklist)
 
 ## User Analytics
-- [User analytics](User-analytics)
-  - [Link event tracking](Link-event-tracking)
+- [User analytics](User-analytics.md)
+  - [Link event tracking](Link-event-tracking.md)
 
 ## Investigations
 - [SVG icons to font](https://gitlab.com/SUSE-UIUX/eos/wikis/svg-icons-to-font:-automated)
