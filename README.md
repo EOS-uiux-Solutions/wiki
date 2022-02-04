@@ -57,8 +57,8 @@ If you are sending a new icon to EOS-icons, please make sure your SVG is complia
 - [Autofill the SCSS code snippets automatically](https://gitlab.com/SUSE-UIUX/eos/wikis/Autofill-the-SCSS-code-snippets-automatically)
 
 ## EOS web components
-- [Development](https://gitlab.com/SUSE-UIUX/eos/-/wikis/EOS-web-components#development)
-- [Publishing](https://gitlab.com/SUSE-UIUX/eos/-/wikis/EOS-web-components#publishing)
+- [Development](https://github.com/EOS-uiux-Solutions/wiki/blob/main/EOS-web-components.md#development)
+- [Publishing](https://github.com/EOS-uiux-Solutions/wiki/blob/main/EOS-web-components.md#publishing)
 
 
 
