@@ -33,20 +33,23 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 - [Managing front-end packages](Managing-front-end-packages)
 
 ## Designing the EOS project
-- [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
-- [Photoshop documents guideline](https://gitlab.com/SUSE-UIUX/eos/wikis/photoshop-documents-rules)
-- [Logo icon](https://gitlab.com/SUSE-UIUX/eos/wikis/Logo-icons)
-- [Design process and feedback gathering](https://gitlab.com/SUSE-UIUX/eos/wikis/Design-process-and-feedback-gathering)
-- [Backing up design files](https://gitlab.com/SUSE-UIUX/eos/wikis/Backing-up-design-files)
-- [Adding design specifications in Strapi](Design-specs-in-Strapi)
+
+- [Personas](Personas.md)
+- [Photoshop documents guideline](Photoshop-documents-rules.md)
+- [Logo icon](Logo-icons.md)
+- [Design process and feedback gathering](Design-process-and-feedback-gathering.md)
+- [Backing up design files](Backing-up-design-files.md)
+- [Adding design specifications in Strapi](Design-specs-in-Strapi.md)
+
 
 ## Designing new icons for EOS-icons
 
 If you are sending a new icon to EOS-icons, please make sure your SVG is compliant to all the rules defined at:
 
-1. [Icon design guide](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-design-guide)
-1. [File conventions for creating new icons](https://gitlab.com/SUSE-UIUX/eos/-/wikis/File-conventions-for-creating-new-icons)
-1. [Icon review checklist](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Review-Checklist)
+1. [Icon design guide](Icon-Design-Guide.md)
+2. [File conventions for creating new icons](https://gitlab.com/SUSE-UIUX/eos/-/wikis/File-conventions-for-creating-new-icons)
+3. [Icon review checklist](https://gitlab.com/SUSE-UIUX/eos/-/wikis/Icon-Review-Checklist)
+
 
 ## User Analytics
 - [User analytics](User-analytics)
