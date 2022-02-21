@@ -23,9 +23,9 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 - [EOS code snippets](EOS-Code-snippets.md)
 
 ### Writing accessible HTML
-- [A11Y](https://gitlab.com/SUSE-UIUX/eos-icons/-/wikis/Accessibility)
-- [Using VoiceOver screen reader on MAC](https://gitlab.com/SUSE-UIUX/eos/-/wikis/Using-VoiceOver-on-Mac-to-test-Screen-Readers)
-- [Testing A11Y with Axe and Cypress](https://gitlab.com/SUSE-UIUX/eos/-/wikis/A11Y:-Cypress---Axe)
+- [A11Y](Accessibility.md)
+- [Using VoiceOver screen reader on MAC](Using-VoiceOver-on-Mac-to-test-Screen-Readers.md)
+- [Testing A11Y with Axe and Cypress](A11Y:-Cypress---Axe.md)
 
 ### Releases
 - [Deploying and versioning releases with tags](Deploying-and-versioning-releases-with-tags.md)
@@ -47,8 +47,8 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 If you are sending a new icon to EOS-icons, please make sure your SVG is compliant to all the rules defined at:
 
 1. [Icon design guide](Icon-Design-Guide.md)
-2. [File conventions for creating new icons](https://gitlab.com/SUSE-UIUX/eos/-/wikis/File-conventions-for-creating-new-icons)
-3. [Icon review checklist](https://gitlab.com/SUSE-UIUX/eos/-/wikis/Icon-Review-Checklist)
+2. [File conventions for creating new icons](File-conventions-for-creating-new-icons.md)
+3. [Icon review checklist](Icon-Review-Checklist.md)
 
 
 ## User Analytics
@@ -56,12 +56,12 @@ If you are sending a new icon to EOS-icons, please make sure your SVG is complia
   - [Link event tracking](Link-event-tracking.md)
 
 ## Investigations
-- [SVG icons to font](https://gitlab.com/SUSE-UIUX/eos/wikis/svg-icons-to-font:-automated)
-- [Autofill the SCSS code snippets automatically](https://gitlab.com/SUSE-UIUX/eos/wikis/Autofill-the-SCSS-code-snippets-automatically)
+- [SVG icons to font](svg-icons-to-font:-automated.md)
+- [Autofill the SCSS code snippets automatically](Autofill-the-SCSS-code-snippets-automatically.md)
 
 ## EOS web components
-- [Development](https://gitlab.com/SUSE-UIUX/eos/-/wikis/EOS-web-components#development)
-- [Publishing](https://gitlab.com/SUSE-UIUX/eos/-/wikis/EOS-web-components#publishing)
+- [Development](EOS-web-components.md#development)
+- [Publishing](EOS-web-components.md#publishing)
 
 
 
