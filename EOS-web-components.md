@@ -1,9 +1,9 @@
-[◀️ Back](https://gitlab.com/SUSE-UIUX/eos/-/wikis/home#eos-web-components)
+[◀️ Back](README.md)
 
 ## Development
 We use Polymer CLI for serving/building, please follow [Getting Started](https://lit-element.polymer-project.org/guide/start). 
 
-Once you get Polymer, clone the repository: [EOS / EOS-webcomponents](https://gitlab.com/SUSE-UIUX/EOS-webcomponents) and run `npm install` followed by `polymer serve` to start a development env.
+Once you get Polymer, clone the repository: [EOS / EOS-webcomponents](https://github.com/EOS-uiux-Solutions/eos-webcomponents) and run `npm install` followed by `polymer serve` to start a development env.
 
 ### Create web components
 **Get started:** [Templates](https://lit-element.polymer-project.org/guide/templates), [Styles](https://lit-element.polymer-project.org/guide/styles), [Properties](https://lit-element.polymer-project.org/guide/properties)
