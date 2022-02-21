@@ -1,4 +1,4 @@
-◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#git)
+◀️ [Back](README.md)
 
 
 ## Opening a Pull Request (PR)
@@ -11,7 +11,7 @@ These are some basic general rules for creating PRs (pull requests) in git, plus
 
 2. Run `npm run test:all` before you create a PR to make sure your code is in good shape. Gitlab CI will double check again, but for the sake of making the pipeline run faster, we encourage you to always test locally first.
 
-3. Use one of the [templates documented here](/PR-templates) for your PR. Please be as thorough as possible.
+3. Use one of the [templates documented here](/PR-templates.md) for your PR. Please be as thorough as possible.
 
 4. Our Meggie bot will assign someone to open PRs to review your code. Add the person that got assigned in Gitlab. If the person is either yourself or a person out of the office, close and re-open the PR to get a new assignee. If the PR was about implementing a designer's design, make sure you show it to s/he and get her/his approval too.
 
