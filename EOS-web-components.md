@@ -1,4 +1,4 @@
-[◀️ Back](https://github.com/EOS-uiux-Solutions/wiki)
+[◀️ Back](README.md)
 
 ## Development
 We use Polymer CLI for serving/building, please follow [Getting Started](https://lit-element.polymer-project.org/guide/start). 
